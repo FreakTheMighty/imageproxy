@@ -341,3 +341,4 @@ You can use follow config to prevent URL overwritting:
 
 imageproxy is copyright Google, but is not an official Google product.  It is
 available under the [Apache 2.0 License](./LICENSE).
+
